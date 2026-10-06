@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
-sentence-transformers
 numpy
 pydantic
+onnxruntime
+tokenizers
